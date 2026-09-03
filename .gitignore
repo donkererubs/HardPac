@@ -1,0 +1,25 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Environments
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+
+# Build artifacts
+dist/
+build/
+target/
+*.log
+
+# Scratch / experiments
+tmp/
+scratch/
